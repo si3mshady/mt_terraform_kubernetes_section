@@ -1,0 +1,8 @@
+backends.tf
+crash.log
+datasources.tf
+locals.tf
+main.tf
+main.tf.old
+provider.tf
+trackedfiles.txt
